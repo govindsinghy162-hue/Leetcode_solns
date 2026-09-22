@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
