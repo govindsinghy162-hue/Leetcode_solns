@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
