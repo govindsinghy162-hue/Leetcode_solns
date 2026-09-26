@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
