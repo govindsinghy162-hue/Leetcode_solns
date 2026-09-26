@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
 | ------- |
