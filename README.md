@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -82,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
@@ -144,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0409-longest-palindrome) |
@@ -156,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0409-longest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
