@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0409-longest-palindrome) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0409-longest-palindrome) |
