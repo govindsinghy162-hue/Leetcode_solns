@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
