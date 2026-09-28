@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
