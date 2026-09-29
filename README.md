@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
