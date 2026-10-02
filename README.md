@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
@@ -188,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
