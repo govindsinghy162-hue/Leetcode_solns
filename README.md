@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0005-longest-palindromic-substring) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
