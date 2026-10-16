@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
