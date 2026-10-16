@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
