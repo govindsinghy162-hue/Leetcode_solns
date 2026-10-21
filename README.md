@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
