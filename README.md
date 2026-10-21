@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1470-shuffle-the-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sorting
 |  |
 | ------- |
