@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
