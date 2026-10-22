@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0089-gray-code) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0918-maximum-sum-circular-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
