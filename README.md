@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0089-gray-code) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1486-xor-operation-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
