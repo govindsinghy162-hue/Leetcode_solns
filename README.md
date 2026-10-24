@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
+| [2409-count-days-spent-together](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
