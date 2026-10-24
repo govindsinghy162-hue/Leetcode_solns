@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0119-pascals-triangle-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
