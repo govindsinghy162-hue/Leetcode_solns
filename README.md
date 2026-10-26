@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0876-middle-of-the-linked-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0383-ransom-note) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
