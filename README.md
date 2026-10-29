@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0918-maximum-sum-circular-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
 | [2409-count-days-spent-together](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1486-xor-operation-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -331,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
