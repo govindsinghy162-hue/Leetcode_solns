@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0724-find-pivot-index) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1486-xor-operation-in-an-array) |
