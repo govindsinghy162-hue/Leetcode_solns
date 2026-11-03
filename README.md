@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Divide and Conquer
