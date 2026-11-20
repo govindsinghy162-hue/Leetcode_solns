@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0912-sort-an-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
