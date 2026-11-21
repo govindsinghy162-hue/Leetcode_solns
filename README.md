@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1929-concatenation-of-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1528-shuffle-string) |
 | [2409-count-days-spent-together](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/2409-count-days-spent-together) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Queue
 |  |
 | ------- |
