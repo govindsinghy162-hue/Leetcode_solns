@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Math
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -389,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
