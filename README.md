@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1189-maximum-number-of-balloons) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/0713-subarray-product-less-than-k) |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -400,4 +403,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/govindsinghy162-hue/Leetcode_solns/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
